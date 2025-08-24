@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGdnC9A4u1asQ/profile-displaybackgroundimage-shrink_350_1400/0/1705409140930?e=1720051200&v=beta&t=MLYr7oqduVD7KyywUIqU7BVXtieO9D3STbL5bhSqIUo)
+ 
 <br />
  <a href="[https://github.com/electrichunter">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ömer+Faruk+Uysal+%e2%9c%a8;%f0%9f%93%9a+medium.com/@ouysal155+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
